@@ -5,7 +5,7 @@ The project based on fruits will classify the users pick of image using image cl
 
 ## How it is developed
 
-The project uses the model resnet18 with datasets of multiple fruit families. When the program is ran, it will uses imagenet to classify the correct image and the name of the fruit
+The project uses the model resnet18 with datasets of multiple fruit families. When the program is being run, it will use imagenet to classify the correct image and the name of the fruit
 
 
 ## How to run the program
