@@ -1,11 +1,11 @@
-# FruitClassifier
+# FoodClassifier
 
-The project based on fruits will classify the users pick of image using image classification such as imagenet and models such as resnet18.
+The project based on food will classify the users pick of image using image classification such as imagenet and models such as resnet18.
 
 
 ## How it is developed
 
-The project uses the model resnet18 with datasets of multiple fruit families. When the program is being run, it will use imagenet to classify the correct image and the name of the fruit
+The project uses the model resnet18 with datasets of multiple food families. When the program is being run, it will use imagenet to classify the correct image and the name of the food
 
 
 ## How to run the program
