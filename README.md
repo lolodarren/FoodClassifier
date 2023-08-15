@@ -2,7 +2,8 @@
 
 The project based on food will classify the users pick of image using image classification such as imagenet and models such as resnet18.
 
-![Picture](file:///C:/Users/dleer/OneDrive/Desktop/hamburger1.jpg)
+![hamburger1](https://github.com/lolodarren/FoodClassifier/assets/72636114/eddc4075-621c-4e8e-aeae-ff691c35ddc5)
+
 
 ## How it is developed
 
