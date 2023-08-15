@@ -19,3 +19,5 @@ The project uses the model resnet18 with datasets of multiple food families. Whe
 5. Run onnx export script
 6. Run imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/"name of dataset"/"name of image" "output file"
 7. Scp the finished imagenet.py
+
+[Demo](https://youtu.be/S9oj1CQQvZA)
